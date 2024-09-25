@@ -1,0 +1,20 @@
+{
+    "1008": {
+        "Nombre": "Python",
+        "Duracion": 8,
+        "Hora_Inicio": "12:00",
+        "Hora_Fin": "14:00"
+    },
+    "15788": {
+        "Nombre": "Gaturro",
+        "Duracion": 7,
+        "Hora_Inicio": "16:00",
+        "Hora_Fin": "22:00"
+    },
+    "100548": {
+        "Nombre": "SDADSA",
+        "Duracion": 3,
+        "Hora_Inicio": "11:08",
+        "Hora_Fin": "15:39"
+    }
+}

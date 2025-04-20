@@ -1,8 +1,4 @@
-# proyecto_python_Rodriguez_Daniel### SISGESA - Sistema de Gestión de Asistencia Académica
-
-
-
-
+# SISGESA - Sistema de Gestión de Asistencia Académica
 
 ## 📋 Descripción
 
